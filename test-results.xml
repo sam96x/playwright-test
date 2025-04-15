@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="2.3007909999999683">
+<testsuite name="demo-todo-app.spec.ts" timestamp="2025-04-15T12:49:35.273Z" hostname="webkit" tests="3" failures="0" skipped="0" time="3.465" errors="0">
+<testcase name="New Todo › should allow me to add todo items" classname="demo-todo-app.spec.ts" time="1.146">
+</testcase>
+<testcase name="New Todo › should clear text input field when an item is added" classname="demo-todo-app.spec.ts" time="1.079">
+</testcase>
+<testcase name="New Todo › should append new items to the bottom of the list" classname="demo-todo-app.spec.ts" time="1.24">
+</testcase>
+</testsuite>
+</testsuites>
